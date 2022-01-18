@@ -5,6 +5,6 @@ Meu nome é Enzo Thomazi Lucas, minhas stacks de paixão são:
 - SQL Server
 
 Algumas stacks que eu tenho conhecimento são:
-- Spring boot
+- Java (Spring boot)
 - MySQL
 - Javascript (c/ Jquery)
