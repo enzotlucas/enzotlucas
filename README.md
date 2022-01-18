@@ -1,4 +1,6 @@
-OPA! Meu nome é Enzo Thomazi Lucas, minhas stacks de paixão são:
+<b>OPA!</b>
+
+Meu nome é Enzo Thomazi Lucas, minhas stacks de paixão são:
 - .Net
 - SQL Server
 
