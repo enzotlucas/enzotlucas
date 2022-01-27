@@ -1,7 +1,7 @@
 <b>OPA!</b>
 
 Meu nome é Enzo Thomazi Lucas, minhas stacks de paixão são:
-- c# (.Net)
+- C# (.Net)
 - SQL Server
 
 Algumas stacks que eu tenho conhecimento são:
