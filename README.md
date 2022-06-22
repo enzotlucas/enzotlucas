@@ -1,10 +1,12 @@
-<b>OPA!</b>
+<b>Hey there!</b>
 
-Meu nome é Enzo Thomazi Lucas, minhas stacks de paixão são:
-- C# (.Net)
+My name is Enzo Thomazi Lucasi work as software engineer at Tata Consultancy Services!
+
+Stack:
+- .NET
 - SQL Server
 
-Algumas stacks que eu tenho conhecimento são:
+Some techs i have knowledge:
 - Java (Spring boot)
 - MySQL
 - Javascript (c/ Jquery)
