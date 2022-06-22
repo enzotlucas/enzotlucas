@@ -1,6 +1,6 @@
 <b>Hey there!</b>
 
-My name is Enzo Thomazi Lucasi work as software engineer at Tata Consultancy Services!
+My name is Enzo Thomazi Lucas, i work as software engineer at Tata Consultancy Services!
 
 Stack:
 - .NET
