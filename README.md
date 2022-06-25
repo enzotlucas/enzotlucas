@@ -4,7 +4,7 @@
 
 My name is Enzo Thomazi Lucas, i'm a Software Engineer at Tata Consultancy Services!
 
-Stack:
+Skills (Strong):
 - .NET
 - SQL Server
 
