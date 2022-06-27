@@ -11,7 +11,7 @@ Skills (Strong):
 Some techs i have knowledge:
 - Java (Spring boot)
 - MySQL
-- Javascript (c/ Jquery)
+- Javascript (w/ Jquery)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![enzotlucas's github stats](https://github-readme-stats.vercel.app/api?username=enzotlucas&show_icons=true&theme=dracula)
