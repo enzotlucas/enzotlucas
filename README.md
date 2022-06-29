@@ -4,14 +4,19 @@
 
 My name is Enzo Thomazi Lucas, i'm a Software Engineer at Tata Consultancy Services!
 
-Skills (Strong):
+#### Skills (Strong):
 - .NET
 - SQL Server
 
-Some techs i have knowledge:
+#### Some techs i have knowledge:
 - Java (Spring boot)
 - MySQL
 - Javascript (w/ Jquery)
+
+#### Current studying:
+- Angular
+- Docker
+- Kubernets
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![enzotlucas's github stats](https://github-readme-stats.vercel.app/api?username=enzotlucas&show_icons=true&theme=dracula)
