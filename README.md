@@ -14,7 +14,6 @@ My name is Enzo Thomazi Lucas, i'm a Software Engineer at Tata Consultancy Servi
 - Javascript (w/ Jquery)
 
 #### Current studying:
-- Angular
 - Docker
 - Kubernets
 
