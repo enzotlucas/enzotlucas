@@ -12,9 +12,10 @@ My name is Enzo Thomazi Lucas, i'm a Software Engineer at Tata Consultancy Servi
 - Java (Spring boot)
 - MySQL
 - Javascript (w/ Jquery)
+- Docker
+- git
 
 #### Current studying:
-- Docker
 - Kubernets
 
 ## 𝗦𝘁𝗮𝘁𝘀
