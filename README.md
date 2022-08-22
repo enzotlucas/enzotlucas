@@ -18,5 +18,8 @@ My name is Enzo Thomazi Lucas, i'm a Software Engineer at Tata Consultancy Servi
 #### Current studying:
 - Kubernets
 
+## Profiles
+<a href="https://www.hackerrank.com/enzotlucas31">HackerRank</a>
+
 ## 𝗦𝘁𝗮𝘁𝘀
 ![enzotlucas's github stats](https://github-readme-stats.vercel.app/api?username=enzotlucas&show_icons=true&theme=dracula)
