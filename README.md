@@ -1,6 +1,7 @@
 ### <b>Hey there! :cowboy_hat_face:</b>
 
 [![](https://img.shields.io/badge/-Enzo%20Thomazi%20Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-thomazi-lucas-10bb91158/)](https://www.linkedin.com/in/enzo-thomazi-lucas-10bb91158/)
+[![](https://img.shields.io/badge/-HackerRank-brightgreen/)](https://www.hackerrank.com/enzotlucas31)
 
 My name is Enzo Thomazi Lucas, i'm a Software Engineer at Tata Consultancy Services!
 
@@ -17,9 +18,6 @@ My name is Enzo Thomazi Lucas, i'm a Software Engineer at Tata Consultancy Servi
 
 #### Current studying:
 - Kubernets
-
-## Profiles
-- <a href="https://www.hackerrank.com/enzotlucas31">HackerRank</a>
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![enzotlucas's github stats](https://github-readme-stats.vercel.app/api?username=enzotlucas&show_icons=true&theme=dracula)
