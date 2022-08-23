@@ -3,7 +3,14 @@
 [![](https://img.shields.io/badge/-Enzo%20Thomazi%20Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-thomazi-lucas-10bb91158/)](https://www.linkedin.com/in/enzo-thomazi-lucas-10bb91158/)
 [![](https://img.shields.io/badge/-HackerRank-brightgreen/)](https://www.hackerrank.com/enzotlucas31)
 
-My name is Enzo Thomazi Lucas, i'm a Software Engineer at Tata Consultancy Services!
+```cs
+public Person About() => new Person
+	{
+		Name = "Enzo Thomazi Lucas",
+		Role = "Software Engineer",
+		Company = "Tata Consultancy Services"
+	};
+```
 
 #### Skills (Strong):
 <div align="left">
