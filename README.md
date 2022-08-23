@@ -6,9 +6,9 @@
 ```cs
 public Person About() => new Person
 {
-	Name = "Enzo Thomazi Lucas",
-	Role = "Software Engineer",
-	Company = "Tata Consultancy Services"
+    Name = "Enzo Thomazi Lucas",
+    Role = "Software Engineer",
+    Company = "Tata Consultancy Services"
 };
 ```
 
