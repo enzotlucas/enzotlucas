@@ -15,8 +15,8 @@ public Person About() => new Person
 #### Skills (Strong):
 <div align="left">
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/csharp.png?raw=true" alt="C#" title="C#" />
-	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/dotnet.png?raw=true" alt=".NETCore" title=".NETCore" />
-	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/sqlserver.png?raw=true" alt="SQLServer" title=".SQLServer" />
+	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/dotnet.png?raw=true" alt=".NET Core" title=".NET Core" />
+	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/sqlserver.png?raw=true" alt="SQL Server" title="SQL Server" />
 </div>
 
 #### Some techs i have knowledge:
@@ -24,7 +24,7 @@ public Person About() => new Person
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/git.png?raw=true" alt="Git" title="Git" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/js.png?raw=true" alt="JavaScript" title="JavaScript" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/java.png?raw=true" alt="Java" title="Java" />
-	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/springboot.png?raw=true" alt="SpringBoot" title="SpringBoot" />
+	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/springboot.png?raw=true" alt="Spring Boot" title="Spring Boot" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/mysql.png?raw=true" alt="MySQL" title="MySQL" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/docker.png?raw=true" alt="Docker" title="Docker" />
 </div>
@@ -33,11 +33,12 @@ public Person About() => new Person
 <div align="left">
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/kubernetes.png?raw=true" alt="Kubernetes" title="Kubernetes" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/identity-server.png?raw=true" alt="Identity Server" title="Identity Server" />
+	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/rabbitmq.png?raw=true" alt="RabbitMQ" title="RabbitMQ" />
 </div>
 
 #### Tools:
 <div>
-	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/vscode.png?raw=true" alt="VisualStudio" title="VisualStudio" />
+	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/vscode.png?raw=true" alt="Visual Studio" title="Visual Studio" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/postman.png?raw=true" alt="Postman" title="Postman" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/intellij.png?raw=true" alt="IntelliJ" title="IntelliJ" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/jira.png?raw=true" alt="Jira" title="Jira" />
