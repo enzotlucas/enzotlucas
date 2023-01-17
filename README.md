@@ -1,6 +1,7 @@
 ### <b>Hey there! :cowboy_hat_face:</b>
 
 [![](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-thomazi-lucas-10bb91158/)](https://www.linkedin.com/in/enzo-thomazi-lucas-10bb91158/)
+[![](https://img.shields.io/badge/-Nuget-blue?style=flat&logo=Nuget&logoColor=white&link=https://www.nuget.org/profiles/enzotlucas)](https://www.nuget.org/profiles/enzotlucas)
 [![](https://img.shields.io/badge/-HackerRank-brightgreen/?style=flat&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/enzotlucas31)](https://www.hackerrank.com/enzotlucas31)
 
 ```cs
