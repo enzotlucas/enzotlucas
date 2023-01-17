@@ -32,7 +32,7 @@ public Person About() => new Person
 #### Current studying:
 <div align="left">
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/kubernetes.png?raw=true" alt="Kubernetes" title="Kubernetes" />
-	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/identity-server.png?raw=true" alt="Identity Server" title="Identity Server" />
+	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/keycloakpng.png?raw=true" alt="Keycloak" title="Keycloak" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/rabbitmq.png?raw=true" alt="RabbitMQ" title="RabbitMQ" />
 </div>
 
