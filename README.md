@@ -5,9 +5,15 @@
 [![](https://img.shields.io/badge/-HackerRank-brightgreen/?style=flat&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/enzotlucas31)](https://www.hackerrank.com/enzotlucas31)
 
 
-<div >
 
-<div style="width: 50%;float: left;">
+<table>
+<tr>
+<td>
+
+![enzotlucas's github stats](https://github-readme-stats.vercel.app/api?username=enzotlucas&show_icons=true&theme=dracula)
+
+</td>
+<td>
 
 ```cs
 public Person About() => new Person
@@ -15,21 +21,14 @@ public Person About() => new Person
     Name = "Enzo Thomazi Lucas",
     Role = "Senior Software Engineer",
     Company = "Tata Consultancy Services",
-	Country = "Brazil",
-	Passion = "Code & Games"
+    Country = "Brazil",
+    Passion = "Code & Games"
 };
 ``` 
-</div>
 
-<div style="width: 50%;float: left;">
-
-
-![enzotlucas's github stats](https://github-readme-stats.vercel.app/api?username=enzotlucas&show_icons=true&theme=dracula)
-
-
-</div>
-</div>
-
+</td>
+</tr>
+</table>
 
 #### Skills (Strong):
 <div align="left">
