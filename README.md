@@ -30,14 +30,14 @@ public Person About() => new Person
 </tr>
 </table>
 
-#### Skills (Strong):
+#### Strong skills:
 <div align="left">
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/csharp.png?raw=true" alt="C#" title="C#" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/dotnet.png?raw=true" alt=".NET Core" title=".NET Core" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/sqlserver.png?raw=true" alt="SQL Server" title="SQL Server" />
 </div>
 
-#### Some techs i have knowledge:
+#### Other skills:
 <div align="left">
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/git.png?raw=true" alt="Git" title="Git" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/js.png?raw=true" alt="JavaScript" title="JavaScript" />
