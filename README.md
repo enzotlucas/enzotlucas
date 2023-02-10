@@ -45,13 +45,15 @@ public Person About() => new Person
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/springboot.png?raw=true" alt="Spring Boot" title="Spring Boot" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/mysql.png?raw=true" alt="MySQL" title="MySQL" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/docker.png?raw=true" alt="Docker" title="Docker" />
+	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/rabbitmq.png?raw=true" alt="RabbitMQ" title="RabbitMQ" />
+	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/mongodb.png?raw=true" alt="MongoDB" title="MongoDB" />
 </div>
 
 #### Current studying:
 <div align="left">
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/kubernetes.png?raw=true" alt="Kubernetes" title="Kubernetes" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/keycloakpng.png?raw=true" alt="Keycloak" title="Keycloak" />
-	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/rabbitmq.png?raw=true" alt="RabbitMQ" title="RabbitMQ" />
+	
 </div>
 
 #### Tools:
