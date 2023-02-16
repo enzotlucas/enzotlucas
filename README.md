@@ -53,6 +53,7 @@ public Person About() => new Person
 <div align="left">
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/kubernetes.png?raw=true" alt="Kubernetes" title="Kubernetes" />
 	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/keycloakpng.png?raw=true" alt="Keycloak" title="Keycloak" />
+	<img height="50" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/azure.png?raw=true" alt="Azure" title="Azure" />
 	
 </div>
 
