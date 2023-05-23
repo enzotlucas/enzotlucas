@@ -10,7 +10,7 @@
 <tr>
 <td>
 
-![enzotlucas's github stats](https://github-readme-stats.vercel.app/api?username=enzotlucas&show_icons=true&theme=dracula)
+![enzotlucas's github stats](https://github-readme-stats-one-lime-47.vercel.app/api?username=enzotlucas&show_icons=true&theme=dracula)
 
 </td>
 <td>
