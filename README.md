@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td>
-	<img decoding="async" loading="lazy" alt="Andrei's GitHub Stats" src="https://github-readme-stats-one-lime-47.vercel.app/api?username=enzotlucas&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=en&show_icons=true&theme=dracula&rank_icon=github" />
+	<img decoding="async" loading="lazy" alt="enzotlucas's GitHub Stats" src="https://github-readme-stats-one-lime-47.vercel.app/api?username=enzotlucas&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=en&show_icons=true&theme=dracula&rank_icon=github" />
 	
 </td>
 <td>
