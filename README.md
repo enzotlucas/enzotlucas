@@ -6,7 +6,7 @@
 
 
 
-![enzotlucas's GitHub Stats](https://github-readme-stats-enzotlucas.vercel.app/api?username=enzotlucas&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=en&show_icons=true&theme=dracula&rank_icon=github)
+![enzotlucas's GitHub Stats](https://github-readme-stats-one-lime-47.vercel.app/api?username=enzotlucas&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=en&show_icons=true&theme=dracula&rank_icon=github)
 	
 	
 
