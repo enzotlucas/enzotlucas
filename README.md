@@ -28,15 +28,10 @@ public Person About() => new Person
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/dotnet.png?raw=true" alt=".NET Core" title=".NET Core" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/sqlserver.png?raw=true" alt="SQL Server" title="SQL Server" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/git.png?raw=true" alt="Git" title="Git" />
-	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/js.png?raw=true" alt="JavaScript" title="JavaScript" />
-	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/java.png?raw=true" alt="Java" title="Java" />
-	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/springboot.png?raw=true" alt="Spring Boot" title="Spring Boot" />
-	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/mysql.png?raw=true" alt="MySQL" title="MySQL" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/docker.png?raw=true" alt="Docker" title="Docker" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/rabbitmq.png?raw=true" alt="RabbitMQ" title="RabbitMQ" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/mongodb.png?raw=true" alt="MongoDB" title="MongoDB" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/kubernetes.png?raw=true" alt="Kubernetes" title="Kubernetes" />
-	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/keycloakpng.png?raw=true" alt="Keycloak" title="Keycloak" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/azure.png?raw=true" alt="Azure" title="Azure" />
 </div>
 
