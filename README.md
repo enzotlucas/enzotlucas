@@ -40,7 +40,6 @@ public Person About() => new Person
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/vscode.png?raw=true" alt="Visual Studio" title="Visual Studio" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/postman.png?raw=true" alt="Postman" title="Postman" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/insomnia.png?raw=true" alt="Insomnia" title="Insomnia" />
-	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/intellij.png?raw=true" alt="IntelliJ" title="IntelliJ" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/jira.png?raw=true" alt="Jira" title="Jira" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/confluence.png?raw=true" alt="Confluence" title="Confluence" />
 </div>
