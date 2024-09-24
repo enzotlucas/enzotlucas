@@ -36,6 +36,7 @@ public Person About() => new Person
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/aci.png?raw=true" alt="ACI" title="ACI" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/acr.png?raw=true" alt="ACR" title="ACR" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/azure-aks.png?raw=true" alt="AKS" title="AKS" />	
+	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/azure-cosmos.png?raw=true" alt="Cosmos" title="Cosmos" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/appinsights.png?raw=true" alt="App Insights" title="App Insights" />	
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/servicebus.png?raw=true" alt="Service Bus" title="Service Bus" />
 	<img height="40" src="https://github.com/enzotlucas/enzotlucas/blob/main/img/eventhub.png?raw=true" alt="Event Hub" title="Event Hub" />
