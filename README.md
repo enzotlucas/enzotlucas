@@ -14,8 +14,8 @@
 public Person About() => new Person
 {
     Name = "Enzo Thomazi Lucas",
-    Role = "Senior Software Engineer",
-    Company = "Edenred - Ticket",
+    Role = "Software Engineer",
+    Company = "Edenred",
     Country = "Brazil",
     Passion = "Code & Games"
 };
